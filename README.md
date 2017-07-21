@@ -4,11 +4,11 @@
 
 ## Table Of Contents
 
-- [Features](#Features)
-- [QuickStart](#QuickStart)
-- [Requirements](#Requirements)
-- [Installation](#Installation)
-- [Demo](#Demo)
+- [Features](#features)
+- [QuickStart](#quickstart)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Demo](#demo)
 
 ## Features
 
