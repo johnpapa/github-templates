@@ -12,7 +12,6 @@
 ## Features
 
 This project framework provides the following features:
--
 
 ## QuickStart
 1.
@@ -35,3 +34,5 @@ A demo app is included to show how to use the project.
 
 To run the demo, follow these steps:
 
+## Resources
+-
