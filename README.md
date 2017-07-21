@@ -6,7 +6,7 @@
 - [Features](#Features)
 - [Requirements](#Requirements)
 - [Installation](#Installation)
-- [Usage](#Usage)
+- [QuickStart](#QuickStart)
 - [Demo](#Demo)
 
 ## Features
@@ -24,7 +24,7 @@ This project framework provides the following features:
 ## Installation
 -
 
-## Usage
+## QuickStart
 -
 
 ## Demo App
